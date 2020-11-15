@@ -15,7 +15,7 @@ function setup() {
 
 	//Create the Bodies Here.
 	ground = new Ground(600,580,1200,15)
-	tree = new Tree(300,400)
+	tree = new Tree(400,500)
 
 	mango1 = new Mango(830,168,20);
 	mango2 = new Mango(930,210,25);
